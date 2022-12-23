@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Staff Engineer working across the PEXA Group, primarily focused on the International expansion program.
+
 <!--
 **pexa-abruno/pexa-abruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
